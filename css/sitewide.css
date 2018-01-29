@@ -30,7 +30,9 @@ body {
 	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #ff0000;
+	color: #ffffff;
+	background-color:#FF0000;
+
 }
 
 /*	Generally, you will only want one container element in
@@ -39,13 +41,15 @@ body {
 	something wrong. 	
 */
 .container {
-	margin-top: 1em;
+	margin-top: 3em;
 	margin-right: auto;
-	margin-bottom: 1em;
+	margin-bottom: 3em;
 	margin-left: auto;
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 5px solid #eee;
+	border: 5px solid #FFD700;
 }
+
+
 
