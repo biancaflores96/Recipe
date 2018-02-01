@@ -26,12 +26,22 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* ------------------------------------------------------------ */
 /* start project-specifc styles below this line */
 
+
 body {
 	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #ffffff;
-	background-color:#FF0000;
+	color: #000000;
+	background-color:#FFFAF0;
+	background-image: url("https://cdn.vectorstock.com/i/thumb-large/78/69/dumplings-seamless-patetrn-background-of-food-vector-6177869.jpg");
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 100px
+
+	
+
+
 
 }
 
@@ -48,8 +58,20 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
+	padding color: #FFFAF0;
+	background-color: #FFFAF0;;
 	border: 5px solid #FFD700;
-}
 
+}
+.nav{ 
+	background-color: #FFFAF0;
+	font-style: italic;
+	position: center;
+	top:0px;
+	right: 0px;
+	left:0px;
+	border: 5px solid #FFD700;
+	text-align: center;
+}
 
 
